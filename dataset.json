@@ -1,0 +1,33 @@
+{
+
+"dataset" : {
+ "thumbsUp" : {
+   "inputs" : {
+        "x": "x",
+        "y" :"y",
+        "z":"z"
+    },
+ 
+    "index": "index",
+    "gesture" : "thumbsUp"
+ },
+  "thumbsDown" : {
+    "x": "x",
+    "y" :"y",
+    "z":"z",
+    "index": "index",
+    "gesture" : "thumbsDown"
+ },
+  "thumbsNeutral" : {
+    "x": "x",
+    "y" :"y",
+    "z":"z",
+    "index": "index",
+    "gesture" : "thumbsNeutral"
+ }
+
+   
+
+}
+
+}

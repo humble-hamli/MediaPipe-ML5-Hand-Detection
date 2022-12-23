@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../ml5-face-tracker"
+	},
+	{
+		"path": "../faceAPI"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "MediaPipe-ML5-Hand-Detection"
+  }
+}
